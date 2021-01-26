@@ -1,0 +1,27 @@
+body{
+    background-image: url(imag.jpg); 
+    }
+
+h1{
+   color: darkblue;
+  }
+
+.p1{
+    color:blue
+   }
+
+.p2{
+    color:brown
+   }
+
+.p3{
+    color:rgb(8, 66, 8)
+   }
+
+#h2{
+    color:purple
+   }
+
+#h3{
+    color:green
+   }
